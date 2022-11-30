@@ -8,5 +8,5 @@ if (num1>num2) Console.Write($"Число {num1} больше чем {num2}");
 else
     {
         if (num1 < num2) Console.Write($"Число {num2} больше чем {num1}"); 
-        else Console.Write($"Число {num2} равно  числу {num1}")            
+        else Console.Write($"Число {num2} равно  числу {num1}");          
     }
